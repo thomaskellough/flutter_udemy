@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2bda304-31da-433a-b2b6-f4b20b9a6847" name="Default Changelist" comment="completed mi_card" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tGiSfrGzWkBnuZg8HImgoCLrQO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fonts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2bda304-31da-433a-b2b6-f4b20b9a6847" name="Default Changelist" comment="" />
+      <created>1622401827851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622401827851</updated>
+    </task>
+    <task id="LOCAL-00001" summary="completed mi_card">
+      <created>1622475057500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622475057501</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="completed mi_card" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed mi_card" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="90" key="#Intentions" timestamp="1622403173606">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="520" y="90" key="#Intentions/0.25.1440.806@0.25.1440.806" timestamp="1622403173605" />
+    <state width="974" height="29" key="GridCell.Tab.0.bottom" timestamp="1622475152480">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state width="974" height="29" key="GridCell.Tab.0.bottom/0.25.1440.806@0.25.1440.806" timestamp="1622475152480" />
+    <state width="974" height="29" key="GridCell.Tab.0.center" timestamp="1622475152480">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state width="974" height="29" key="GridCell.Tab.0.center/0.25.1440.806@0.25.1440.806" timestamp="1622475152480" />
+    <state width="974" height="29" key="GridCell.Tab.0.left" timestamp="1622475152479">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state width="974" height="29" key="GridCell.Tab.0.left/0.25.1440.806@0.25.1440.806" timestamp="1622475152479" />
+    <state width="974" height="29" key="GridCell.Tab.0.right" timestamp="1622475152480">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state width="974" height="29" key="GridCell.Tab.0.right/0.25.1440.806@0.25.1440.806" timestamp="1622475152480" />
+    <state x="437" y="64" key="SettingsEditor" timestamp="1622414379175">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="437" y="64" key="SettingsEditor/0.25.1440.806@0.25.1440.806" timestamp="1622414379175" />
+    <state x="528" y="165" key="Vcs.Push.Dialog.v2" timestamp="1622475064553">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="528" y="165" key="Vcs.Push.Dialog.v2/0.25.1440.806@0.25.1440.806" timestamp="1622475064553" />
+  </component>
+</project>

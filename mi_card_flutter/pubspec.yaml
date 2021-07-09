@@ -1,0 +1,27 @@
+name: mi_card
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  auto_size_text: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+  - family: Satisfy
+    fonts:
+      - asset: fonts/Satisfy-Regular.ttf
+  - family: CabinSketch
+    fonts:
+      - asset: fonts/CabinSketch-Regular.ttf
