@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="420969d7-28e8-4c33-b215-9279ded59f64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/results_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/results_page.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uEMeGDqlmYFkBCrGT6zSkcDx9s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="420969d7-28e8-4c33-b215-9279ded59f64" name="Default Changelist" comment="" />
+      <created>1624226388805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624226388805</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added bmi project">
+      <created>1625776792143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625776792143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added bmi project" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bmi project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1239" y="289" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624978042610">
+      <screen x="-1920" y="-57" width="1920" height="1080" />
+    </state>
+    <state x="-1239" y="289" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624978042610" />
+    <state x="-1197" y="52" key="CommitChangelistDialog2" timestamp="1625776791351">
+      <screen x="-1920" y="-32" width="1920" height="986" />
+    </state>
+    <state x="-1197" y="52" key="CommitChangelistDialog2/0.25.1440.875/-1920.-32.1920.986@-1920.-32.1920.986" timestamp="1625776791351" />
+    <state width="606" height="427" key="DebuggerActiveHint" timestamp="1625774956659">
+      <screen x="-1920" y="-32" width="1920" height="986" />
+    </state>
+    <state width="494" height="466" key="DebuggerActiveHint/0.0.1440.900/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624979012917" />
+    <state width="454" height="389" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1625592858564" />
+    <state width="606" height="427" key="DebuggerActiveHint/0.25.1440.875/-1920.-32.1920.986@-1920.-32.1920.986" timestamp="1625774956659" />
+    <state width="1419" height="298" key="GridCell.Tab.0.bottom" timestamp="1625776552256">
+      <screen x="-1920" y="-32" width="1920" height="986" />
+    </state>
+    <state width="1878" height="249" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624979598134" />
+    <state width="1398" height="406" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-57.1920.1080@0.0.1440.900" timestamp="1625664087073" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1625597111920" />
+    <state width="1419" height="309" key="GridCell.Tab.0.bottom/0.25.1440.806/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1625770623272" />
+    <state width="968" height="151" key="GridCell.Tab.0.bottom/0.25.1440.806/-1920.-32.1920.1055@0.25.1440.806" timestamp="1624973738293" />
+    <state width="968" height="151" key="GridCell.Tab.0.bottom/0.25.1440.806@0.25.1440.806" timestamp="1624931177293" />
+    <state width="1419" height="298" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-32.1920.986@-1920.-32.1920.986" timestamp="1625776552256" />
+    <state width="1878" height="249" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624979714384" />
+    <state width="1419" height="298" key="GridCell.Tab.0.center" timestamp="1625776552254">
+      <screen x="-1920" y="-32" width="1920" height="986" />
+    </state>
+    <state width="1878" height="249" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624979598132" />
+    <state width="1398" height="406" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-57.1920.1080@0.0.1440.900" timestamp="1625664087071" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1625597111919" />
+    <state width="1419" height="309" key="GridCell.Tab.0.center/0.25.1440.806/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1625770623272" />
+    <state width="968" height="151" key="GridCell.Tab.0.center/0.25.1440.806/-1920.-32.1920.1055@0.25.1440.806" timestamp="1624973738292" />
+    <state width="968" height="151" key="GridCell.Tab.0.center/0.25.1440.806@0.25.1440.806" timestamp="1624931177292" />
+    <state width="1419" height="298" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-32.1920.986@-1920.-32.1920.986" timestamp="1625776552254" />
+    <state width="1878" height="249" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624979714383" />
+    <state width="1419" height="298" key="GridCell.Tab.0.left" timestamp="1625776552253">
+      <screen x="-1920" y="-32" width="1920" height="986" />
+    </state>
+    <state width="1878" height="249" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624979598129" />
+    <state width="1398" height="406" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-57.1920.1080@0.0.1440.900" timestamp="1625664087071" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1625597111918" />
+    <state width="1419" height="309" key="GridCell.Tab.0.left/0.25.1440.806/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1625770623271" />
+    <state width="968" height="151" key="GridCell.Tab.0.left/0.25.1440.806/-1920.-32.1920.1055@0.25.1440.806" timestamp="1624973738292" />
+    <state width="968" height="151" key="GridCell.Tab.0.left/0.25.1440.806@0.25.1440.806" timestamp="1624931177291" />
+    <state width="1419" height="298" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-32.1920.986@-1920.-32.1920.986" timestamp="1625776552253" />
+    <state width="1878" height="249" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624979714382" />
+    <state width="1419" height="298" key="GridCell.Tab.0.right" timestamp="1625776552256">
+      <screen x="-1920" y="-32" width="1920" height="986" />
+    </state>
+    <state width="1878" height="249" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624979598133" />
+    <state width="1398" height="406" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-57.1920.1080@0.0.1440.900" timestamp="1625664087072" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1625597111919" />
+    <state width="1419" height="309" key="GridCell.Tab.0.right/0.25.1440.806/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1625770623272" />
+    <state width="968" height="151" key="GridCell.Tab.0.right/0.25.1440.806/-1920.-32.1920.1055@0.25.1440.806" timestamp="1624973738293" />
+    <state width="968" height="151" key="GridCell.Tab.0.right/0.25.1440.806@0.25.1440.806" timestamp="1624931177293" />
+    <state width="1419" height="298" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-32.1920.986@-1920.-32.1920.986" timestamp="1625776552256" />
+    <state width="1878" height="249" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624979714383" />
+    <state x="-1162" y="198" key="Vcs.Push.Dialog.v2" timestamp="1625776795726">
+      <screen x="-1920" y="-32" width="1920" height="986" />
+    </state>
+    <state x="-1162" y="198" key="Vcs.Push.Dialog.v2/0.25.1440.875/-1920.-32.1920.986@-1920.-32.1920.986" timestamp="1625776795726" />
+  </component>
+</project>
