@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="420969d7-28e8-4c33-b215-9279ded59f64" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/results_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/results_page.dart" afterDir="false" />
-    </list>
+    <list default="true" id="420969d7-28e8-4c33-b215-9279ded59f64" name="Default Changelist" comment="added bmi project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,9 +152,10 @@
     <state width="968" height="151" key="GridCell.Tab.0.right/0.25.1440.806@0.25.1440.806" timestamp="1624931177293" />
     <state width="1419" height="298" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-32.1920.986@-1920.-32.1920.986" timestamp="1625776552256" />
     <state width="1878" height="249" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-57.1920.1080@-1920.-57.1920.1080" timestamp="1624979714383" />
-    <state x="-1162" y="198" key="Vcs.Push.Dialog.v2" timestamp="1625776795726">
-      <screen x="-1920" y="-32" width="1920" height="986" />
+    <state x="-1162" y="214" key="Vcs.Push.Dialog.v2" timestamp="1625861081833">
+      <screen x="-1920" y="-32" width="1920" height="1055" />
     </state>
+    <state x="-1162" y="214" key="Vcs.Push.Dialog.v2/0.25.1440.806/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1625861081833" />
     <state x="-1162" y="198" key="Vcs.Push.Dialog.v2/0.25.1440.875/-1920.-32.1920.986@-1920.-32.1920.986" timestamp="1625776795726" />
   </component>
 </project>

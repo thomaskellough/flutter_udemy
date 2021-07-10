@@ -1,0 +1,4 @@
+#Fri Jul 09 18:38:08 MDT 2021
+base.0=/Users/thomas.kellough/repos/personal/flutter_udemy/Clima-Flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
